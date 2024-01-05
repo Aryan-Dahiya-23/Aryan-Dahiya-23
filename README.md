@@ -1,19 +1,23 @@
 <img
-  align="center"
+  align="right"
   alt="coding"
   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
 />
 
 <h1 align="center">Hi 👋, I'm Aryan Dahiya</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/240885602-330af13b-6435-4505-8a02-1869b677f9eb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ0NjU5ODgsIm5iZiI6MTcwNDQ2NTY4OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU2MDItMzMwYWYxM2ItNjQzNS00NTA1LThhMDItMTg2OWI2NzdmOWViLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA1VDE0NDEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlMDhhOWI2MTk4MWZmZmNlYjNjZjFkYzAwYzZlMGRkMTdmYjkxZGEzYzY0YzM2YzAwMzQzZTlkYzJiY2FjZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lBM7nNCtAGS82PWWs1WzXk4N_hWEOzxrsGxL3EEHfNA">
-
+<h3 align="left">
+  Welcome to my GitHub! I'm Aryan, a results-driven Full Stack MERN developer
+  based in India. With a strong foundation in MongoDB, Express.js, React, and
+  Node.js, I specialize in creating robust and scalable web applications.
+</h3>
+  
 - 💬 Ask me about **MERN,DSA**
 
 - 📫 How to reach me **aryan23dahiya@gmail.com**
 
 - ⚡ Fun fact **Code: Where bugs are features!**
+
+    <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/240885602-330af13b-6435-4505-8a02-1869b677f9eb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ0NjU5ODgsIm5iZiI6MTcwNDQ2NTY4OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU2MDItMzMwYWYxM2ItNjQzNS00NTA1LThhMDItMTg2OWI2NzdmOWViLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA1VDE0NDEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlMDhhOWI2MTk4MWZmZmNlYjNjZjFkYzAwYzZlMGRkMTdmYjkxZGEzYzY0YzM2YzAwMzQzZTlkYzJiY2FjZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lBM7nNCtAGS82PWWs1WzXk4N_hWEOzxrsGxL3EEHfNA">
 
 <h3 align="left">Languages:</h3>
 <div align="left">
@@ -121,11 +125,11 @@
       height="40"
     />
   </a>
-</div> 
+</div>
 
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<div align="left">
   <a href="https://twitter.com/aryandahiya23" target="blank"
     ><img
       align="center"
