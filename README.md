@@ -3,8 +3,8 @@
 <h1 align="left">Hi 👋, I'm Aryan Dahiya</h1>
 <h3 align="left">A passionate Software Engineer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Languages:</h3>
+<p>
 <a href="https://twitter.com/aryandahiya23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryandahiya23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryan-dahiya-a72320249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-dahiya-a72320249" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aryan23dahiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan23dahiya" height="30" width="40" /></a>
