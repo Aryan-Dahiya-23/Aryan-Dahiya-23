@@ -12,7 +12,7 @@
 </h3>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<div align="center">
   <a href="https://twitter.com/aryandahiya23" target="blank"
     ><img
       align="center"
@@ -45,7 +45,7 @@
       height="30"
       width="40"
   /></a>
-</p>
+</div>
 
 <h3 align="center">Languages:</h3>
 <div align="center">
@@ -84,7 +84,7 @@
 </div>
 
 <h3 align="center">Frameworks:</h3>
-<p align="center">
+<div align="center">
   <a>
     <img
       src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"
@@ -125,10 +125,10 @@
       height="40"
     />
   </a>
-</p>
+</div>
 
 <h3 align="center">Tools:</h3>
-<p align="center">
+<div align="center">
   <a>
     <img
       src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"
@@ -153,4 +153,4 @@
       height="40"
     />
   </a>
-</p>
+</div>
