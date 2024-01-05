@@ -1,1 +1,6 @@
-<h1 className="text-red-500">Hello</h1>
+   .heading {
+            color: red;
+            font-size: 200px;
+  }
+
+<h1 class="heading">Hello</h1>
