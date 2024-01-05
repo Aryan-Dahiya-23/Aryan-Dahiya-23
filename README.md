@@ -5,7 +5,7 @@
 />
 
 <h1 align="left">Hi 👋, I'm Aryan Dahiya</h1>
-<h3 align="left">A passionate Software Engineer from India</h3>
+<h3 align="left">Welcome to my GitHub! I'm Aryan, a results-driven Full Stack MERN developer based in India. With a strong foundation in MongoDB, Express.js, React, and Node.js, I specialize in creating robust and scalable web applications.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
