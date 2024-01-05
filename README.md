@@ -5,13 +5,11 @@
 />
 
 <h1 align="left">Hi 👋, I'm Aryan Dahiya</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-- 💬 Ask me about **MERN,DSA**
-
-- 📫 How to reach me **aryan23dahiya@gmail.com**
-
-- ⚡ Fun fact **Code: Where bugs are features!**
+<h3 align="left">
+  Welcome to my GitHub! I'm Aryan, a results-driven Full Stack MERN developer
+  based in India. With a strong foundation in MongoDB, Express.js, React, and
+  Node.js, I specialize in creating robust and scalable web applications.
+</h3>
 
 <h3 align="center">Languages:</h3>
 <div align="center">
