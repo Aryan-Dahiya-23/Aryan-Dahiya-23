@@ -49,7 +49,7 @@
 
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <a>
+  <a height="60" width="60" >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
