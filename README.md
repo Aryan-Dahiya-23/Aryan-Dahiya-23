@@ -99,7 +99,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
       alt="javascript"
       width="40"
       height="40"
@@ -109,14 +109,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
       width="40"
       height="40"
     />
@@ -155,5 +147,8 @@
   </a>
 </p>
 
-<h3 align="left">Frameworks:</h3>
-<p align="left"></p>
+<h3 align="center">Frameworks:</h3>
+<p align="center"></p>
+
+<h3 align="center">Tools:</h3>
+<p align="center"></p>
