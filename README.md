@@ -48,8 +48,8 @@
 </p>
 
 <h3 align="center">Languages:</h3>
-<p align="center">
-  <a height="60" width="60" >
+<div align="center">
+  <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -81,7 +81,7 @@
       height="40"
     />
   </a>
-</p>
+</div>
 
 <h3 align="center">Frameworks:</h3>
 <p align="center">
