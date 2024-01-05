@@ -43,7 +43,7 @@
   /></a>
 </p>
 
-<h3 style="text-align: center; font-size: xx-large">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
@@ -154,3 +154,6 @@
     />
   </a>
 </p>
+
+<h3 align="left">Frameworks:</h3>
+<p align="left"></p>
