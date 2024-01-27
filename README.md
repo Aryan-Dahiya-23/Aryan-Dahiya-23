@@ -49,6 +49,14 @@
 
 <h3 align="center">Frameworks:</h3>
 <div align="center">
+   <a>
+    <img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/NextJS-Dark.svg"
+      alt="next"
+      width="40"
+      height="40"
+    />
+  </a>
   <a>
     <img
       src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"
@@ -77,14 +85,6 @@
     <img
       src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ0NjU5ODgsIm5iZiI6MTcwNDQ2NTY4OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA1VDE0NDEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxOTk4NDQ5ZjY3NGZlMmQ0NTlkOTAzNGVjY2QyYmY0YTU5NmUxMjdhMDgwMTg5MmQxNTI4NzNhZTdmZWQ5ODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lpHNj3s_ttQNvKWFiZXoxikCOIoBVU7lcPlbiq6eHlU"
       alt="MongoDB"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a>
-    <img
-      src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif"
-      alt="bootstrap"
       width="40"
       height="40"
     />
